@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halima Aizaz</h1>
-<h3 align="center">A software Engineer, Full Stack</h3>
+<h3 align="center">A software Engineer, based in NY</h3>
 
 - 📫 How to reach me **halimaaizaz@hotmail.com**
 
