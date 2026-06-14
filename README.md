@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halima Aizaz</h1>
-<h3 align="center">A Business Analyst, based in NY</h3>
+<h3 align="center">A Business Analyst, based in TX</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
